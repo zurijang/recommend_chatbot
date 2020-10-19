@@ -1,0 +1,5 @@
+.vscode
+*.json
+.pynb_checkpoints
+ngrok.exe
+db.sqlite3
